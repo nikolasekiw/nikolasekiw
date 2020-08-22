@@ -4,8 +4,9 @@
 ## Programmering & programutvikling
 
 ## Xcode prosjekter
-### Test
-- [Kalkulator applikasjon](https://github.com/nikolasekiw/MotorvognNS)
+### Egne prosjekter
+- [Kalkulator applikasjon] (https://github.com/nikolasekiw/Xcode-Kalkulator
+### Dicee prosjekter
 
 ## Android Studio prosjekter
 
