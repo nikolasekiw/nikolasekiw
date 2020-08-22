@@ -1,5 +1,5 @@
 # MineProsjekter
-Oversikt over alle mine prosjekter kategorisert i grupper etter programmeringsspråk og IDE
+> Oversikt over alle mine prosjekter
 
 ## Programmering & programutvikling
 
