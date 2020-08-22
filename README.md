@@ -1,10 +1,14 @@
 # MineProsjekter
 Oversikt over alle mine prosjekter kategorisert i grupper etter programmeringsspråk og IDE
 
-Prosjekter - Xcode
+## Programmering & programutvikling
 
-Android Studio prosjekter
+## Xcode prosjekter
 
-Visual Studio prosjekter
+## Android Studio prosjekter
 
-Intellij prosjekter
+## Apputvikling
+
+## Webapplikasjoner (ITPE3200)
+
+## Webprogrammering (DATA1700)
