@@ -5,7 +5,7 @@
 
 ## Xcode prosjekter
 ### Egne prosjekter
-- [Kalkulator applikasjon] (https://github.com/nikolasekiw/Xcode-Kalkulator)
+- [Kalkulator applikasjon](https://github.com/nikolasekiw/Xcode-Kalkulator)
 ### Dicee prosjekter
 
 ## Android Studio prosjekter
