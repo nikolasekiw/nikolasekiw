@@ -17,7 +17,7 @@
 
 ## Webapplikasjoner (ITPE3200)
 
-## Algoritmer og Datastrukturer
+## Algoritmer og Datastrukturer (DATS2300)
 - [Kode fra forelesning, kompendium og plenum gjennomganger](https://github.com/nikolasekiw/DATS2300)
 - [Oblig 1, 2 og 3](https://github.com/nikolasekiw/AlgDatOblig)
 
