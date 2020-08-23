@@ -17,6 +17,10 @@
 
 ## Webapplikasjoner (ITPE3200)
 
+## Algoritmer og Datastrukturer
+- [Kode fra forelesning, kompendium og plenum gjennomganger](https://github.com/nikolasekiw/DATS2300)
+- [Oblig 1, 2 og 3](https://github.com/nikolasekiw/AlgDatOblig)
+
 ## Webprogrammering (DATA1700)
 ### Motorvogn - Løsningsforslag
 - [Motorvogn1 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn1)
