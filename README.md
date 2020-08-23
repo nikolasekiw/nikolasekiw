@@ -5,11 +5,6 @@
 ### Egne prosjekter
 ### Dicee prosjekter
 
-
-## Android Studio prosjekter
-### Emne prosjekter
-### Egne prosjekter
-
 ## Apputvikling (DAVE3600)
 
 ## Webapplikasjoner (ITPE3200)
