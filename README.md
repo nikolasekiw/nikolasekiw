@@ -1,14 +1,13 @@
 # MineProsjekter
 > Oversikt over alle mine prosjekter
 
-## Programmering & programutvikling
-
-## Xcode prosjekter
+## Programmering (DAPE1400) & programutvikling (DATA1600)
+- [All kode fra begge fagene](https://github.com/nikolasekiw/DAPE1400-DATA1600)
+- [Programutvikling semesteroppgave](https://github.com/nikolasekiw/DATA1600-Semesteroppgave)
+## IOS prosjekter
 ### Egne prosjekter
-- [Kalkulator applikasjon](https://github.com/nikolasekiw/Xcode-Kalkulator)
 ### Dicee prosjekter
-- [IAmPoor](https://github.com/nikolasekiw/IAmPoor)
-- [IAmRich](https://github.com/nikolasekiw/IAmRich)
+
 
 ## Android Studio prosjekter
 ### Emne prosjekter
