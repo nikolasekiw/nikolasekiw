@@ -19,6 +19,7 @@
 ## Webapplikasjoner (ITPE3200)
 
 ## Webprogrammering (DATA1700)
+### Motorvogn - Løsningsforslag
 - [Motorvogn1 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn1)
 - [Motorvogn2 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn2)
 - [Motorvogn3 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn3)
@@ -28,4 +29,7 @@
 - [Motorvogn7 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn7)
 - [Motorvogn8 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn8)
 - [Motorvogn9 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn-losningsforslag/tree/master/L%C3%B8sningsforslag_motorvogn9)
-
+### Oblig
+- [Oblig 1](https://github.com/nikolasekiw/DATA1700-Oblig/tree/master/DATA1700%20Oblig1)
+- [Oblig 2](https://github.com/nikolasekiw/DATA1700-Oblig/tree/master/DATA1700%20Oblig2)
+- [Oblig 2](https://github.com/nikolasekiw/DATA1700-Oblig/tree/master/DATA1700%20Oblig3)
