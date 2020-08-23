@@ -9,6 +9,9 @@
 
 ## Webapplikasjoner (ITPE3200)
 
+## Testing av programvare (ADTS2310)
+- [Semesteroppgave](https://github.com/nikolasekiw/ADTS2310/tree/master/Testing%20semesteroppgave)
+
 ## Webprogrammering (DATA1700)
 - [Motorvogn](https://github.com/nikolasekiw/DATA1700/tree/master/Motorvogn)
 ### Motorvogn - Løsningsforslag
