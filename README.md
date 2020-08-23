@@ -28,5 +28,6 @@
 - [Motorvogn7 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorgovn7-losningsforslag)
 - [Motorvogn8 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn8-losningsforslag)
 - [Motorvogn9 - Løsningsforslag](https://github.com/nikolasekiw/DATA1700-Motorvogn9-losningsforslag)
-
+- [Første tjenerprogram](https://github.com/nikolasekiw/F-rste-tjenerprogram)
+- [Kall fra klient til tjener, overføring av streng](
 
