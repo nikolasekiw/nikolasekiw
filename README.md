@@ -21,6 +21,8 @@
 - []()
 - []()
 
+- [Løsningsforslag ukeoppgave1]()
+
 ## Testing av programvare (ADTS2310)
 - [Semesteroppgave](https://github.com/nikolasekiw/ADTS2310/tree/master/Testing%20semesteroppgave)
 
