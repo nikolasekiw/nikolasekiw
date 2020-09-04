@@ -8,18 +8,7 @@
 ## Apputvikling (DAVE3600)
 
 ## Webapplikasjoner (ITPE3200)
-### Kodegjennomganger fra kurset i 2019
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 - [Løsningsforslag ukeoppgave1]()
 
