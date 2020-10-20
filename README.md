@@ -6,6 +6,27 @@
 ### Dicee prosjekter
 
 ## Apputvikling (DAVE3600)
+### Mappeoppgaver
+- [Mappe 1 - Mattespill](https://github.com/nikolasekiw/Apputvikling-mappe1)
+- [Mappe 2 - Møtebooker]()
+- [Mappe 2 - ConteotProviderTest]()
+- [Mappe 3 - Ikke definert enda]()
+### Gjennomganger fra timen
+- [1. Grader]()
+- [2. Ressurser]()
+- [3. Aktivitet]()
+- [4. Fragmenter]()
+- [4.1 Enkelbrowser]()
+- [4.2 Testlekebrowser]()
+- [5. Database]()
+- [6. Mer fragmenter]()
+- [7. ServiceBroadcast]()
+- [8.1 ContentProviderBok]()
+- [8.2 ContentProviderTestBok]()
+- [9.1 AsyncTask](https://github.com/nikolasekiw/Apputvikling-AsyncTask)
+- [9.2 Widget](https://github.com/nikolasekiw/Apputvikling-Widget)
+- [9.3 WidgetKlokke](https://github.com/nikolasekiw/Apputvikling-WidgetKlokke)
+- [9.4 TilfeldigeTall](https://github.com/nikolasekiw/Apputvikling-TilfeldigTall)
 
 ## Webapplikasjoner (ITPE3200)
 
