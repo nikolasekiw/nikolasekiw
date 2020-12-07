@@ -10,7 +10,7 @@
 ## Webapplikasjoner (ITPE3200)
 - [Mappe 1 - gruppe]()
 - [Mappe 2 - gruppe]()
-- [Mappe 3 - individuell()
+- [Mappe 3 - individuell]()
 
 ## Testing av programvare (ADTS2310)
 - [Semesteroppgave](https://github.com/nikolasekiw/ADTS2310/tree/master/Testing%20semesteroppgave)
