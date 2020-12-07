@@ -3,8 +3,7 @@
 
 ## Apputvikling (DAVE3600)
 - [Mappe 1 - Mattespill](https://github.com/nikolasekiw/Apputvikling-mappe1)
-- [Mappe 2 - Møtebooker]()
-- [Mappe 2 - ConteotProviderTest]()
+- [Mappe 2 - Møtebooker]() & [ConteotProviderTest]()
 - [Mappe 3 - OsloMet booker]()
 
 ## Webapplikasjoner (ITPE3200)
