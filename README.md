@@ -10,7 +10,7 @@
 - [Mappe 1 - Mattespill](https://github.com/nikolasekiw/Apputvikling-mappe1)
 - [Mappe 2 - Møtebooker]()
 - [Mappe 2 - ConteotProviderTest]()
-- [Mappe 3 - Ikke definert enda]()
+- [Mappe 3 - OsloMet booker]()
 ### Gjennomganger fra timen
 - [1. Grader]()
 - [2. Ressurser]()
@@ -29,9 +29,9 @@
 - [9.4 TilfeldigeTall](https://github.com/nikolasekiw/Apputvikling-TilfeldigTall)
 
 ## Webapplikasjoner (ITPE3200)
-
-
-- [Løsningsforslag ukeoppgave1]()
+- [Mappe 1 - gruppe]()
+- [Mappe 2 - gruppe]()
+- [Mappe 3 - individuell()
 
 ## Testing av programvare (ADTS2310)
 - [Semesteroppgave](https://github.com/nikolasekiw/ADTS2310/tree/master/Testing%20semesteroppgave)
