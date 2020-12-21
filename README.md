@@ -2,9 +2,9 @@
 > Oversikt over alle mine prosjekter
 
 ## Apputvikling (DAVE3600)
-- [Mappe 1 - Mattespill](https://github.com/nikolasekiw/Apputvikling-mappe1)
-- [Mappe 2 - Møtebooker]() & [ContentProvider]()
-- [Mappe 3 - OsloMet booker]()
+- [Mappe 1 - Mattespill](https://github.com/nikolasekiw/AndroidUtvikling_Mappe1_MatteSpill)
+- [Mappe 2 - Møtebooker](https://github.com/nikolasekiw/AndroidUtvikling_Mappe2_MoteBooker) & ContentProvider (ligger ikke på git)
+- [Mappe 3 - OsloMet booker](https://github.com/nikolasekiw/AndroidUtvikling_Mappe3_OsloMetBooker)
 
 ## Webapplikasjoner (ITPE3200)
 - [Mappe 1 - gruppe]()
