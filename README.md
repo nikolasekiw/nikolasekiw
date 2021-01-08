@@ -8,7 +8,7 @@
 
 ## Webapplikasjoner (ITPE3200)
 - [Mappe 1 - gruppe]()
-- [Mappe 2 - gruppe]()
+- [Mappe 2 - gruppe](https://github.com/nikolasekiw/Webapplikasjoner_Mappe1_2)
 - [Mappe 3 - individuell](https://github.com/nikolasekiw/Webapplikasjoner-Mappe3_IndividuellOppg)
 
 ## Testing av programvare (ADTS2310)
