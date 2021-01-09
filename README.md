@@ -1,6 +1,11 @@
 # MineProsjekter
 > Oversikt over alle mine prosjekter
 
+| Fag | #Kode |
+| :---: | :---:|
+| Apputvikling | DAVE3600 |
+
+
 ## Apputvikling (DAVE3600)
 - [Mappe 1 - Mattespill](https://github.com/nikolasekiw/AndroidUtvikling_Mappe1_MatteSpill)
 - [Mappe 2 - Møtebooker](https://github.com/nikolasekiw/AndroidUtvikling_Mappe2_MoteBooker) & ContentProvider (ligger ikke på git)
