@@ -1,10 +1,15 @@
 # MineProsjekter
 > Oversikt over alle mine prosjekter
 
-| ###Fag | ###Kode |
+| Fag | Kode |
 | :---: | :---:|
 | Apputvikling | DAVE3600 |
-| :---: | :---:|
+| Webapplikasjoner | ITPE3200 |
+| Webprogrammering | DATA1700 |
+| Testing av Programvare | ADTS2310 |
+| Algoritmer og Datastrukturer| DATS2300 |
+| Programutvikling | DATA1600 |
+| Programmering | DAPE 1400 |
 
 
 
