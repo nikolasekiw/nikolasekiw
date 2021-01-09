@@ -2,7 +2,6 @@
 > Oversikt over alle mine prosjekter
 
 | Fag | Kode |
-| :---: | :---:|
 | Apputvikling | DAVE3600 |
 | Webapplikasjoner | ITPE3200 |
 | Webprogrammering | DATA1700 |
