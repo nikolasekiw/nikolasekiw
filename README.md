@@ -13,20 +13,20 @@
 
 
 
-## Apputvikling (DAVE3600)
+## Apputvikling
 - [Mappe 1 - Mattespill](https://github.com/nikolasekiw/AndroidUtvikling_Mappe1_MatteSpill)
 - [Mappe 2 - Møtebooker](https://github.com/nikolasekiw/AndroidUtvikling_Mappe2_MoteBooker) & ContentProvider (ligger ikke på git)
 - [Mappe 3 - OsloMet booker](https://github.com/nikolasekiw/AndroidUtvikling_Mappe3_OsloMetBooker)
 
-## Webapplikasjoner (ITPE3200)
+## Webapplikasjoner
 - [Mappe 1 - gruppe]()
 - [Mappe 2 - gruppe](https://github.com/nikolasekiw/Webapplikasjoner_Mappe1_2)
 - [Mappe 3 - individuell](https://github.com/nikolasekiw/Webapplikasjoner-Mappe3_IndividuellOppg)
 
-## Testing av programvare (ADTS2310)
+## Testing av programvare
 - [Semesteroppgave](https://github.com/nikolasekiw/ADTS2310/tree/master/Testing%20semesteroppgave)
 
-## Webprogrammering (DATA1700)
+## Webprogrammering
 - [Motorvogn](https://github.com/nikolasekiw/DATA1700/tree/master/Motorvogn)
 
 ### Motorvogn - Løsningsforslag
@@ -66,10 +66,10 @@
 - [Oblig 2](https://github.com/nikolasekiw/DATA1700-Oblig/tree/master/DATA1700%20Oblig2)
 - [Oblig 2](https://github.com/nikolasekiw/DATA1700-Oblig/tree/master/DATA1700%20Oblig3)
 
-## Algoritmer og Datastrukturer (DATS2300)
+## Algoritmer og Datastrukturer
 - [Kode fra forelesning, kompendium og plenum gjennomganger](https://github.com/nikolasekiw/DATS2300)
 - [Oblig 1, 2 og 3](https://github.com/nikolasekiw/AlgDatOblig)
 
-## Programmering (DAPE1400) & programutvikling (DATA1600)
+## Programmering & programutvikling
 - [All kode fra begge fagene](https://github.com/nikolasekiw/DAPE1400-DATA1600)
 - [Programutvikling semesteroppgave](https://github.com/nikolasekiw/DATA1600-Semesteroppgave)
