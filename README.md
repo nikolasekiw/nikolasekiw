@@ -12,9 +12,10 @@
 | Programmering | DAPE 1400 |
 
 ## Apputvikling
-- [Mappe 1 - Mattespill](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe1_MatteSpill)
-- [Mappe 2 - Møtebooker](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe2_MoteBooker) & [ContentProvider](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe3_ContentProvider)
-- [Mappe 3 - OsloMet booker](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe3_OsloMetBooker)
+- [Assignment 1 - Mattespill](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe1_MatteSpill)
+- [Assignment 2 - Møtebooker](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe2_MoteBooker) & [ContentProvider](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe3_ContentProvider)
+- [Assignment 3 - OsloMet booker](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe3_OsloMetBooker)
+- [UkeOppgaver](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Oppgaver)
 
 ## Webapplikasjoner
 - [Mappe 1 & 2 - gruppe](https://github.com/nikolasekiw/WebApplikasjoner_ITPE3200/tree/master/Webapplikasjoner_Mappe1_2)
