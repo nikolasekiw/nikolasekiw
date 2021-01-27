@@ -1,6 +1,10 @@
 # Mine Prosjekter
 > Oversikt over alle mine prosjekter
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
+
+
 | Fag | Kode |
 | :---: | :---: |
 | Apputvikling | DAVE3600 |
@@ -10,9 +14,6 @@
 | Algoritmer og Datastrukturer| DATS2300 |
 | Programutvikling | DATA1600 |
 | Programmering | DAPE 1400 |
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Apputvikling
 - [Assignment 1 - Mattespill](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe1_MatteSpill)
