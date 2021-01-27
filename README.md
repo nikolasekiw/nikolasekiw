@@ -1,9 +1,8 @@
 # Mine Prosjekter
 > Oversikt over alle mine prosjekter
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
 
 | Fag | Kode |
 | :---: | :---: |
