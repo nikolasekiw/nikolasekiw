@@ -11,6 +11,9 @@
 | Programutvikling | DATA1600 |
 | Programmering | DAPE 1400 |
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolasekiw)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Apputvikling
 - [Assignment 1 - Mattespill](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe1_MatteSpill)
 - [Assignment 2 - Møtebooker](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe2_MoteBooker) & [ContentProvider](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe3_ContentProvider)
