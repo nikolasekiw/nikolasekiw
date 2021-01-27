@@ -1,4 +1,4 @@
-# MineProsjekter
+# Mine Prosjekter
 > Oversikt over alle mine prosjekter
 
 | Fag | Kode |
