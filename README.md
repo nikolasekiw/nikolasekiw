@@ -16,6 +16,10 @@
 
 ## Skolefag
 
+### Bachelor
+- [Link til repoen for bachelornettsiden](https://github.com/martineea/martineea.github.io)
+- [Nettside for bacheloroppgaven (ikke ferdig)](https://martineea.github.io/#)
+
 ### Apputvikling
 - [Assignment 1 - Mattespill](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe1_MatteSpill)
 - [Assignment 2 - Møtebooker](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe2_MoteBooker) & [ContentProvider](https://github.com/nikolasekiw/AppUtvikling_DAVE3600/tree/master/Mappe3_ContentProvider)
