@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasekiw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools and Languages
-<img src="https://user-images.githubusercontent.com/44602947/107545164-44b24900-6bcb-11eb-8c53-937c385e9c20.png" style="width=10;">
+<img src="https://user-images.githubusercontent.com/44602947/107545164-44b24900-6bcb-11eb-8c53-937c385e9c20.png" style="width=10px;">
 
 
 | Subject | Code |
