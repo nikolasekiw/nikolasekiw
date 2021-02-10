@@ -1,9 +1,13 @@
-# Mine Prosjekter
-> Oversikt over alle mine prosjekter
+# My projects
+> Overview of all my projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasekiw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-| Fag | Kode |
+## Tools and Languages
+![java-logo-7F8B35BAB3-seeklogo com (1)](https://user-images.githubusercontent.com/44602947/107545164-44b24900-6bcb-11eb-8c53-937c385e9c20.png)
+
+
+| Subject | Code |
 | :---: | :---: |
 | Apputvikling | DAVE3600 |
 | Webapplikasjoner | ITPE3200 |
