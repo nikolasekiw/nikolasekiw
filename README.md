@@ -5,6 +5,14 @@
 
 ## Tools and Languages
 <img src="https://user-images.githubusercontent.com/44602947/107545164-44b24900-6bcb-11eb-8c53-937c385e9c20.png" style="width=10px; height=10px;">
+<img src="![1200px-C_Sharp_logo svg](https://user-images.githubusercontent.com/44602947/107545808-fb162e00-6bcb-11eb-8ed6-93d605fc8b69.png)" style="width=30;">
+<img src="" style="">
+<img src="" style="">
+<img src="" style="">
+<img src="" style="">
+<img src="" style="">
+<img src="" style="">
+<img src="" style="">
 
 
 | Subject | Code |
