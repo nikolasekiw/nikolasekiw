@@ -5,14 +5,14 @@
 
 ## Tools and Languages
 <img src="https://user-images.githubusercontent.com/44602947/107545164-44b24900-6bcb-11eb-8c53-937c385e9c20.png" width="30" height="30">
-<img src="![1200px-C_Sharp_logo svg](https://user-images.githubusercontent.com/44602947/107545808-fb162e00-6bcb-11eb-8ed6-93d605fc8b69.png)" style="width=30;">
-<img src="" style="">
-<img src="" style="">
-<img src="" style="">
-<img src="" style="">
-<img src="" style="">
-<img src="" style="">
-<img src="" style="">
+<img src="https://user-images.githubusercontent.com/44602947/107545808-fb162e00-6bcb-11eb-8ed6-93d605fc8b69.png" width="30" height="30";">
+<img src="![1200px- NET_Core_Logo svg](https://user-images.githubusercontent.com/44602947/107548082-8395ce00-6bce-11eb-9208-09b7a415e2ca.png)" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
 
 
 | Subject | Code |
